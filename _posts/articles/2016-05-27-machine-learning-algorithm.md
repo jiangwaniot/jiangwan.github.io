@@ -4,7 +4,7 @@ title: "Machine Learning Algorithm"
 excerpt: "机器学习算法的总结，持续更新"
 modified: 2016-05-27
 categories: articles
-tags: [sample-post]
+tags: [Machine Learning, Python]
 image:
   feature: so-simple-sample-image-1.jpg
   credit: WeGraphics
