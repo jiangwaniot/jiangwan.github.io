@@ -15,12 +15,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="20170628-sentence-compression.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20170628-sentence-compression.md">
+      <file leaf-file-name="2017-03-20-Domain2Vec-User2Vec.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2017-03-20-Domain2Vec-User2Vec.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="140">
-                <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <first_editor relative-caret-position="200">
+                <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -36,6 +36,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/20170628-sentence-compression.md" />
+        <option value="$PROJECT_DIR$/2017-03-20-Domain2Vec-User2Vec.md" />
       </list>
     </option>
   </component>
@@ -131,6 +132,19 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="140">
             <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-03-20-Domain2Vec-User2Vec.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="200">
+            <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor>
