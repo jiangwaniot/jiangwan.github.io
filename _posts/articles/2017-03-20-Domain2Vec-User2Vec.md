@@ -9,7 +9,7 @@ comments: true
 share: true
 ---
 
-# [Domain2Vec Demo](http://projector.tensorflow.org/?config=https://gist.githubusercontent.com/jiangwaniot/bab2f35b527a439ccdae2fce3ffdc536/raw/5c787e1543a9c3a8303e5a19cfebbf2d6f26782b/config.json)
+# [Click to See Domain2Vec Demo](http://projector.tensorflow.org/?config=https://gist.githubusercontent.com/jiangwaniot/bab2f35b527a439ccdae2fce3ffdc536/raw/5c787e1543a9c3a8303e5a19cfebbf2d6f26782b/config.json)
 
 <figure>
 <a href="../../images/20170320/Slide19.jpg"><img src="../../images/20170320/Slide19.jpg" alt="image"></a>
