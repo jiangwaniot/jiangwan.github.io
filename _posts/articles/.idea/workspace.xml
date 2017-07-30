@@ -15,7 +15,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2017-03-20-Domain2Vec-User2Vec.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-03-20-Domain2Vec-User2Vec.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2017-03-20-Domain2Vec-User2Vec.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -27,6 +27,13 @@
                 <js_state />
               </second_editor>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Slide19.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../images/20170320/Slide19.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -151,6 +158,11 @@
             <js_state />
           </second_editor>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../images/20170320/Slide19.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
