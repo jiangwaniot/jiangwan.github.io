@@ -8,3 +8,27 @@ tags: [Machine Learning, Representation Learning, Classification, Cluster, Anoma
 comments: true
 share: true
 ---
+
+<figure>
+<a href="../../images/20170320/Slide19.jpg"><img src="../../images/20170320/Slide19.jpg" alt="image"></a>
+</figure>
+<figure>
+<a href="../../images/20170320/Slide20.jpg"><img src="../../images/20170320/Slide20.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide21.jpg"><img src="../../images/20170320/Slide21.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide22.jpg"><img src="../../images/20170320/Slide22.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide23.jpg"><img src="../../images/20170320/Slide23.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide24.jpg"><img src="../../images/20170320/Slide24.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide25.jpg"><img src="../../images/20170320/Slide25.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide26.jpg"><img src="../../images/20170320/Slide26.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide27.jpg"><img src="../../images/20170320/Slide27.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide28.jpg"><img src="../../images/20170320/Slide28.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide29.jpg"><img src="../../images/20170320/Slide29.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide30.jpg"><img src="../../images/20170320/Slide30.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide31.jpg"><img src="../../images/20170320/Slide31.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide32.jpg"><img src="../../images/20170320/Slide32.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide33.jpg"><img src="../../images/20170320/Slide33.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide34.jpg"><img src="../../images/20170320/Slide34.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide35.jpg"><img src="../../images/20170320/Slide35.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide36.jpg"><img src="../../images/20170320/Slide36.jpg" alt="image"></a>
+<a href="../../images/20170320/Slide37.jpg"><img src="../../images/20170320/Slide37.jpg" alt="image"></a>
+</figure>
