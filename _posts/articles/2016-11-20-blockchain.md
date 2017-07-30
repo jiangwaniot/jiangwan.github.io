@@ -15,3 +15,8 @@ share: true
 		<a href="../../images/20161120/Slide39.jpg"><img src="../../images/20161120/Slide39.jpg" alt="image"></a>
 </figure>
 
+<figure>
+	<a href="../../images/20161120/Slide40.jpg"><img src="../../images/20161120/Slide40.jpg" alt="image"></a>
+		<a href="../../images/20161120/Slide41.jpg"><img src="../../images/20161120/Slide41.jpg" alt="image"></a>
+</figure>
+
