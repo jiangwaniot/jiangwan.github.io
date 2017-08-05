@@ -118,3 +118,8 @@ share: true
 重复以上过程，直到目标函数中的变量系数全部为负数，那么就不能再转动了，求得最大值。
 
 
+## 参考资料
+
+《算法导论》第三版 第29章 线性规划
+[线性规划课件Lec8.pdf](http://bioinfo.ict.ac.cn/~dbu/AlgorithmCourses/Lectures/Lec8.pdf)
+[blog](https://www.hrwhisper.me/introduction-to-simplex-algorithm/)
